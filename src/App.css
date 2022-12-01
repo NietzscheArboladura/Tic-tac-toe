@@ -54,7 +54,7 @@
   left: 0;
   height: 100vh;
   width: 100vw;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 .btn {
@@ -77,12 +77,14 @@
 }
 
 .win-text {
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 5rem;
 }
 
 .win-history {
-  color: white;
-  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  font-size: 2;
   margin: 2rem 0;
 }
+
+
